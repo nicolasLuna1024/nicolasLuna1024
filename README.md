@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nicolas Luna</h1>
 
 <!--
 **nicolasLuna1024/nicolasLuna1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
